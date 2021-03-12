@@ -1,0 +1,291 @@
+# depslib dependency file v1.0
+1615217050 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\main.cpp
+	<iostream>
+	"Menu.h"
+	"catch.hpp"
+	"NMX_test.h"
+
+1615037258 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\src\nmx.cpp
+	"NMX.h"
+	<iostream>
+	<iomanip>
+
+1615037254 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\include\nmx.h
+	<iostream>
+	<vector>
+
+1615037238 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\src\menu.cpp
+	"Menu.h"
+	<iomanip>
+
+1615037238 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\include\menu.h
+	<iostream>
+	"NMX.h"
+
+1475437642 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1615037266 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\src\nmx_test.cpp
+	"NMX_test.h"
+
+1615037262 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\nmatrix\include\nmx_test.h
+	"NMX.h"
+	<iostream>
+	<vector>
+
+1615036786 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\main.cpp
+	<iostream>
+	"Menu.h"
+	"catch.hpp"
+	"NMX_test.h"
+
+1614907804 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\include\menu.h
+	<iostream>
+	"NMX.h"
+
+1614997827 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\include\nmx.h
+	<iostream>
+	<vector>
+
+1475437642 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1614906272 d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\include\nmx_test.h
+	"NMX.h"
+	<iostream>
+	<vector>
+
+1614998399 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\src\menu.cpp
+	"Menu.h"
+	<iomanip>
+
+1614998399 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\src\nmx.cpp
+	"NMX.h"
+	<iostream>
+	<iomanip>
+
+1614907918 source:d:\elte\2.félév\objektumelvû programozás\beadando\1.bead\tjl3rx\nmatrix\src\nmx_test.cpp
+	"NMX_test.h"
+
